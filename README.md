@@ -1,2 +1,4 @@
 # TruffleIpfs
-Truffle Ipfs
+ipfs daemon
+truffle develop
+npm run start
